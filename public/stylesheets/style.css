@@ -1,0 +1,26 @@
+@import 'reset.css';
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.left-container {
+  border: solid 2px black;
+  height: 100vh;
+  width: 50vw;
+}
+
+.right-container {
+  border: solid 2px black;
+  height: 100vh;
+  width: 50vw;
+}
