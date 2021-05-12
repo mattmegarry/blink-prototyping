@@ -20,6 +20,7 @@ a {
 }
 
 .right-container {
+  position: relative;
   border: solid 2px black;
   height: 100vh;
   width: 50vw;
